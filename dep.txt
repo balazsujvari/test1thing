@@ -12,3 +12,8 @@ edit
 new editing stuff v2
 here are some changes.
 >>>>>>> f15f33c9887b5d347ef3fe65796bfb8de9e4a5fb
+
+
+
+
+branch stuff stuff stuff branch
